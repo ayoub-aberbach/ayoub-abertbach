@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Developer & Coding Enthusiast
+👋 Hey there, my name is Ayoub and I am a Software Developer & Coding Enthusiast.
 
 
 ## 🌐 Socials:
